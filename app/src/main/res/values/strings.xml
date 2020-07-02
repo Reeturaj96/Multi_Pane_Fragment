@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Multi_Pane_Fragment_Assignment1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="version_name">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+
+    </string-array>
+
+
+
+
+</resources>
